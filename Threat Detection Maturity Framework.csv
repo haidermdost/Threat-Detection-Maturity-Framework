@@ -19,8 +19,8 @@ M1: Ad-Hoc,M2: Organized,M3: Optimized,
 Detections based on individual events,Review MTTD and begin to enhance (Historical Searches and Streaming),Ensure acceptable MTTD for all detections (Historical Searches and Streaming),
 Rule Based Detections ,Asset and Identity Prioritization impacts the severity of some detections,Asset and Identity Prioritization impacts the severity of all detections,
 No detections built off AI/ML Anomaly Data Models,"Risk Based Detections are starting to be incorporated into detection strategy: 
-Entity Risk Scoring 
-Basic Correlation","Risk Based Detections serve as the detection core:
+-Entity Risk Scoring 
+-Basic Correlation","Risk Based Detections serve as the detection core:
 Entity Risk Scoring 
 Advanced Correlation of events across disparate data sources (Graph Detections)",
 No incorporation of UEBA in detections ,Initial incorporation of Data Science (AI/ML Anomaly Data Models) based detections,Advanced incorporation of Data Science (AI/ML Anomaly Data Models) based detections,
