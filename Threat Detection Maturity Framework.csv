@@ -21,8 +21,8 @@ Rule Based Detections ,Asset and Identity Prioritization impacts the severity o
 No detections built off AI/ML Anomaly Data Models,"Risk Based Detections are starting to be incorporated into detection strategy: 
 -Entity Risk Scoring 
 -Basic Correlation","Risk Based Detections serve as the detection core:
-Entity Risk Scoring 
-Advanced Correlation of events across disparate data sources (Graph Detections)",
+-Entity Risk Scoring 
+-Advanced Correlation of events across disparate data sources (Graph Detections)",
 No incorporation of UEBA in detections ,Initial incorporation of Data Science (AI/ML Anomaly Data Models) based detections,Advanced incorporation of Data Science (AI/ML Anomaly Data Models) based detections,
 ,Initial incorporation of UEBA in detections ,Advanced incorporation of UEBA in detections ,
 ,,,
@@ -30,15 +30,15 @@ Coverage:,,,
 M1: Ad-Hoc,M2: Organized,M3: Optimized,
 Lack of coverage/gap awareness,Some coverage/gap awareness,Full coverage/gap awareness,
 Coverage and gap awareness does not serve as input to the detection prioritization process ,"Detection to Risk Coverage:
-Initial mapping of  detections to risk to include threat models","Detection to Risk Coverage:
-Full mapping of detections to risk including threat models 
-Detections exists for all high risks identified ",
+-Initial mapping of  detections to risk to include threat models","Detection to Risk Coverage:
+-Full mapping of detections to risk including threat models 
+-Detections exists for all high risks identified ",
 ,"MITRE TTP Coverage:
-Initial mapping of detections to MITRE ATT&CK to include detections provided by tools","MITRE TTP Coverage:
-Full mapping of detections to MITRE ATT&CK to include detections provided by tools
-Detections exists for prioritized techniques ",
+-Initial mapping of detections to MITRE ATT&CK to include detections provided by tools","MITRE TTP Coverage:
+-Full mapping of detections to MITRE ATT&CK to include detections provided by tools
+-Detections exists for prioritized techniques ",
 ,,"Crown Jewel and Critical Application Coverage:
-Detections are in place for Critical applications and Crown Jewels",
+-Detections are in place for Critical applications and Crown Jewels",
 ,,,
 People:,,,
 M1: Ad-Hoc,M2: Organized,M3: Optimized,
