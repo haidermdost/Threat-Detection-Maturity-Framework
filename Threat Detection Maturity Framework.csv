@@ -1,0 +1,50 @@
+Threat Detection Maturity Framework,,,
+,,,
+Processes: ,,,
+M1: Ad-Hoc,M2: Organized,M3: Optimized,
+No formalized development methodology and workflow,Initial development methodology and workflow established ,Well-defined development methodology and workflow ,
+No defined inputs and ad-hoc detections being built ,Some defined inputs and detections are scoped and developed,"Well-defined inputs for detections based on Threat Intelligence, Threat Modeling, Red Team findings, Compliance/Audit findings, etc.",
+No detection lifecycle established  ,Initial detection lifecycle built ,"Well-defined detection lifecycle to include Alert Creation, Maintenance and Decommission, and Continuous Testing processes",
+No defined partnerships and rules of engagement  ,Some documented partnerships and rules of engagement,"Well defined partnerships and rules of engagement to include Table Tops, Hunts, Purple Teaming Exercises, etc.",
+No defined metrics or some metrics are collected but not used,Metrics are collected and used to drive quarterly planning efforts,Metrics are collected and presented to leadership on a continuous basis and used internally to provide immediate course correction,
+,,,
+"Data, Tools and Technology:",,,
+M1: Ad-Hoc,M2: Organized,M3: Optimized,
+No data quality assurance on log sources ,Some data quality assurance on prioritized log sources,Full data quality assurance on all detection log sources,
+Minimal tool integration and documentation ,Enhanced tool integration and documentation ,Full tool optimization and documentation ,
+Detection as code principles are not implemented and followed ,Some detection as code principles are implemented and followed,Full detection as code principles are implemented and followed,
+,,,
+Capabilities: ,,,
+M1: Ad-Hoc,M2: Organized,M3: Optimized,
+Detections based on individual events,Review MTTD and begin to enhance (Historical Searches and Streaming),Ensure acceptable MTTD for all detections (Historical Searches and Streaming),
+Rule Based Detections ,Asset and Identity Prioritization impacts the severity of some detections,Asset and Identity Prioritization impacts the severity of all detections,
+No detections built off AI/ML Anomaly Data Models,"Risk Based Detections are starting to be incorporated into detection strategy: 
+Entity Risk Scoring 
+Basic Correlation","Risk Based Detections serve as the detection core:
+Entity Risk Scoring 
+Advanced Correlation of events across disparate data sources (Graph Detections)",
+No incorporation of UEBA in detections ,Initial incorporation of Data Science (AI/ML Anomaly Data Models) based detections,Advanced incorporation of Data Science (AI/ML Anomaly Data Models) based detections,
+,Initial incorporation of UEBA in detections ,Advanced incorporation of UEBA in detections ,
+,,,
+Coverage:,,,
+M1: Ad-Hoc,M2: Organized,M3: Optimized,
+Lack of coverage/gap awareness,Some coverage/gap awareness,Full coverage/gap awareness,
+Coverage and gap awareness does not serve as input to the detection prioritization process ,"Detection to Risk Coverage:
+Initial mapping of  detections to risk to include threat models","Detection to Risk Coverage:
+Full mapping of detections to risk including threat models 
+Detections exists for all high risks identified ",
+,"MITRE TTP Coverage:
+Initial mapping of detections to MITRE ATT&CK to include detections provided by tools","MITRE TTP Coverage:
+Full mapping of detections to MITRE ATT&CK to include detections provided by tools
+Detections exists for prioritized techniques ",
+,,"Crown Jewel and Critical Application Coverage:
+Detections are in place for Critical applications and Crown Jewels",
+,,,
+People:,,,
+M1: Ad-Hoc,M2: Organized,M3: Optimized,
+No dedicated staff or team focused solely on threat detection ,Dedicated team focused solely on threat detection with limited staffing that could cause a disruption to operations in the event of an illness or departure of a team member  ,Dedicated team focused solely on threat detection that has appropriate regional or global staffing resilience to endure loss of a team,
+Staff on team are not SMEs in the detection focus areas,Some of the staff on team are SMEs in the detection focus areas,Team consists of SMEs in all of the detection focus areas,
+No new hire onboarding and training ,Some new hire onboarding and training ,Well-defined new hire onboarding and training that is continuously enhanced and updated ,
+Minimal leadership support and awareness of the threat detection program,Some leadership support and awareness of the threat detection program ,Full leadership support and awareness of the threat detection program ,
+No socialization or awareness of threat detection processes and procedures throughout the company ,Some socialization or awareness of threat detection processes and procedures throughout the company ,Company is aware of threat detection processes and procedures ,
+,,,
