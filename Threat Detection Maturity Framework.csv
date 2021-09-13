@@ -1,6 +1,6 @@
 Threat Detection Maturity Framework,,,
 ,,,
-Processes: ,,,
+Processes,,,: ,,,
 M1: Ad-Hoc,M2: Organized,M3: Optimized,
 No formalized development methodology and workflow,Initial development methodology and workflow established ,Well-defined development methodology and workflow ,
 No defined inputs and ad-hoc detections being built ,Some defined inputs and detections are scoped and developed,"Well-defined inputs for detections based on Threat Intelligence, Threat Modeling, Red Team findings, Compliance/Audit findings, etc.",
